@@ -1,2 +1,2 @@
-# PRODIGY_ML_Task-02
+# PRODIGY_ML_02
  Customer segmentation using K-Means Clustering
